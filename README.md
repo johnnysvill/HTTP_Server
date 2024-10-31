@@ -30,7 +30,7 @@ docker run -d -p 8000:8000 --name http-server-container http-server
 ```bash
 curl http://localhost:8000/healthz
 ```
-Или открыть браузер и перейти по адресу:
+Или перейти по адресу в браузере:
 ```bash
 http://localhost:8000/healthz
 ```
